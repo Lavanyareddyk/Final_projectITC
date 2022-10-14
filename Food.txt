@@ -1,0 +1,4 @@
+1)Manage multiple orders, delivery locations, and customers at the same time.
+2)Deliver orders within an optimal period of time, ensuring freshness of food and respecting customer preferences.
+3)Safely operate a vehicle in all types of weather conditions.
+4)legal implications of food ordering 
